@@ -1,18 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 
-p {
-    font-size: 120%;
-    font-family: 'Times New Roman', Times, serif;
-    margin-left: 15px;
-}
-
-.main_container {
-    margin: 15px;
-}
-
-.task {
-    margin-bottom: 200px;
-}
 
 .t1_header {
     text-decoration: underline;
@@ -34,22 +22,20 @@ p {
     text-decoration: overline;
 }
 
-.mclaren-regular {
+.t2_p {
     font-family: "McLaren", serif;
+    letter-spacing: -7px;
     font-weight: 400;
     font-style: normal;
-    letter-spacing: 0px;
   }
   
 .t2_href {
     font-size: 3rem; 
     text-decoration: none;
-    text-align: center;
 }
   
 .t2_red {
     color: rgb(234, 67, 53);
-    letter-spacing: 0px;
 }
 
 .t2_blue {
@@ -62,4 +48,38 @@ p {
 
 .t2_yellow {
     color: rgb(251, 188, 5)
+}
+
+.t3_p {
+    font-family: "Rubik Mono One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.t3_red {
+    background-color: red;
+}
+
+.t3_orange {
+    background-color: orange;
+}
+
+.t3_yellow {
+    background-color: yellow;
+}
+
+.t3_green {
+    background-color: green;
+}
+
+.t3_blue {
+    background-color: blue;
+}
+
+.t3_cyan {
+    background-color: cyan;
+}
+
+.t3_purple {
+    background-color: #ff00ff;
 }
