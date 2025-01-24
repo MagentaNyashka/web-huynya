@@ -1,0 +1,112 @@
+p{
+    font-size: large;
+}
+
+h2{
+    margin: 10px;
+}
+
+.Navigation{
+    border-radius: 15px;
+    max-width: fit-content;
+    border: 1px;
+    border-style: dashed;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+.arcticleHeader{
+    max-width: fit-content;
+    display: inline-block;
+}
+
+.img1 {
+    background: url("440px-Brain-ALZH.png") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.img2 {
+    background: url("77a54905400daf962035aea5f8bfccaa.jpg") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.img3 {
+    background: url("57047ad04f15875d03b3bc938e087fc2.jpg") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.img4 {
+    background: url("artworks-CiKpZvznxDEAK4c0-biTSsw-t500x500.jpg") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.img5 {
+    background: url("artworks-vxccfEG7w6lxbtmj-XCBtnA-t500x500.jpg") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.img6 {
+    background: url("why-did-muichiro-forgor-is-he-stupid-v0-ijw8249zo4uc1.webp") 50% / cover no-repeat;
+    background-position-y: 0px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.a1{
+    border-style: dashed;
+    margin-top: 30px;
+    padding: 30px;
+    background-color: aqua;
+}
+
+.a2{
+    border-style: dotted;
+    margin-top: 30px;
+    padding: 30px;
+    background-color: wheat;
+}
+
+li{
+    text-align: center;
+    background-color: wheat;
+    border-radius: 15px;
+    padding: 2px;
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.author{
+    color: magenta;
+}
+
+.source{
+    color: red;
+}
